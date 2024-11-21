@@ -1,5 +1,3 @@
-# CMPE283
-Customized Linux kernel for KVM exit statistics tracking
 **CMPE – 283 VIRTUALIZATION**
 **ASSIGNMENT 1 – VIRTUAL MACHINE / VMM SETUP**
 Student ID: 018184712
